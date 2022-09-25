@@ -1,0 +1,524 @@
+1 	ADA 131 	Architectural Drawing 	3 	4 	Satisfied
+2 	ADA 134 	Designing with Digital Media 	3 	3 	Not satisfied 	Prerequisite not satisfied
+3 	ADA 263 	History of Built Environment I 	3 	7 	Satisfied 	
+4 	AMER 115 	Methods and Texts I 	3 	2 	Satisfied 	
+5 	AMER 195 	Introduction to American Studies I 	3 	2 	Satisfied 	
+6 	AMER 293 	American History I 	3 	2 	Not satisfied 	Prerequisite not satisfied
+7 	AMER 343 	American Theater 	3 	1 	Not satisfied 	Prerequisite not satisfied
+8 	AMER 357 	American Intellectual History I 	3 	2 	Not satisfied 	Prerequisite not satisfied
+9 	AMER 383 	American Novel to 1900 	3 	2 	Not satisfied 	Prerequisite not satisfied
+10 	AMER 427 	Topics in Theory for American Culture 	3 	2 	Not satisfied 	Prerequisite not satisfied
+11 	AMER 459 	Race and Ethnicity in American Culture 	3 	1 	Not satisfied 	Prerequisite not satisfied
+12 	AMER 476 	Selfhood and Emotional Life in American Culture and History 	3 	1 	Satisfied 	
+13 	ARCH 251 	Architectural Building Systems 	3 	3 	Not satisfied 	Prerequisite not satisfied
+14 	ARCH 321 	Architecture and Society 	3 	2 	Satisfied 	 
+15 	ARCH 331 	Structural Design I 	3 	2 	Not satisfied 	Prerequisite not satisfied
+16 	ARCH 341 	Architectural Lighting and Acoustics 	3 	2 	Satisfied 	
+17 	ARCH 411 	Conservation of Historical Environments 	3 	1 	Satisfied 	
+18 	ARCH 418 	Professional Practice 	3 	1 	Satisfied 	
+19 	ARCH 463 	Modern Turkish Architecture 	3 	1 	Satisfied 	
+20 	ARCH 465 	Contemporary Architecture and Theory 	3 	1 	Satisfied 	
+21 	CHEM 201 	Materials Science and Technology 	3 	3 	Satisfied 	
+22 	CHEM 211 	Analytical Chemistry I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+23 	CHEM 231 	Organic Chemistry I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+24 	CHEM 233 	Principles of Organic Chemistry I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+25 	CHEM 320 	Physical Chemistry Laboratory 	3 	1 	Not satisfied 	Prerequisite not satisfied
+26 	CHEM 323 	Physical Chemistry I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+27 	CHEM 327 	Quantum Chemistry I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+28 	CHEM 341 	Inorganic Chemistry I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+29 	CHEM 461 	Fundamentals of Biochemistry 	3 	1 	Satisfied 	
+30 	COMD 203 	Media Studies I 	3 	7 	Satisfied 	
+31 	COMD 210 	Introduction to Screenwriting 	3 	5 	Satisfied 	
+32 	COMD 321 	Analysis of Moving Image 	3 	2 	Satisfied 	
+33 	COMD 341 	Media and Society 	3 	2 	Satisfied 	 
+34 	COMD 355 	Social Media Marketing 	3 	1 	Satisfied 	
+35 	COMD 357 	Multimedia Journalism 	3 	2 	Satisfied 	
+36 	COMD 361 	Sound Design I 	3 	3 	Satisfied 	
+37 	COMD 364 	Video Production for Non-majors 	3 	2 	Satisfied 	
+38 	COMD 433 	Gender and Media 	3 	1 	Satisfied 	
+39 	COMD 437 	Post-production Techniques 	3 	1 	Satisfied 	
+40 	COMD 439 	International Public Relations 	3 	1 	Satisfied 	
+41 	COMD 451 	Creative Project Design and Development 	3 	1 	Satisfied 	
+42 	COMD 471 	Media Ethics 	3 	1 	Satisfied 	
+43 	COMD 527 	Creative Sound Design and Synthesis 	3 	1 	Satisfied 	
+44 	CS 489 	Teaching Project in Computer Engineering 	3 	1 	Satisfied 	
+45 	CS 490 	Senior Research Project 	3 	1 	Satisfied 	
+46 	ECON 101 	Introduction to Economics I 	4 	14 	Satisfied
+47 	ECON 102 	Introduction to Economics II 	4 	8 	Satisfied 	
+48 	ECON 103 	Principles of Economics 	3 	4 	Satisfied 	
+49 	ECON 107 	Principles of Microeconomics 	3 	4 	Satisfied 	
+50 	ECON 108 	Principles of Macroeconomics 	3 	4 	Satisfied 	
+ 
+51 	ECON 203 	Microeconomic Theory I 	3 	2 	Satisfied 	
+ 
+52 	ECON 204 	Microeconomic Theory II 	3 	2 	Not satisfied 	Prerequisite not satisfied
+53 	ECON 205 	Macroeconomic Theory I 	3 	5 	Satisfied 	
+ 
+54 	ECON 206 	Macroeconomic Theory II 	3 	2 	Not satisfied 	Prerequisite not satisfied
+55 	ECON 207 	Economic Theory for Engineers 	3 	3 	Satisfied 	
+ 
+56 	ECON 221 	Introduction to Probability and Statistics I 	3 	10 	Satisfied 	
+ 
+57 	ECON 222 	Introduction to Probability and Statistics II 	3 	5 	Not satisfied 	Prerequisite not satisfied
+58 	ECON 225 	Mathematics for Economists 	3 	2 	Satisfied 	
+ 
+59 	ECON 301 	Econometrics I 	4 	3 	Not satisfied 	Prerequisite not satisfied
+60 	ECON 322 	Monetary Economics 	3 	1 	Not satisfied 	Prerequisite not satisfied
+61 	ECON 363 	History of Economic Thought 	3 	2 	Not satisfied 	Prerequisite not satisfied
+62 	ECON 409 	Contemporary Issues in Turkish Economy I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+63 	ECON 432 	Turkish and World Economy in the 20th Century 	3 	1 	Not satisfied 	Prerequisite not satisfied
+64 	ECON 433 	Industrial Economics I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+65 	ECON 439 	Game Theory I 	3 	1 	Satisfied 	
+ 
+66 	ECON 453 	Theories of Economic Growth and Development I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+67 	ECON 455 	Institutions and Development 	3 	1 	Not satisfied 	Prerequisite not satisfied
+68 	ECON 458 	Labor Market Economics 	3 	1 	Not satisfied 	Prerequisite not satisfied
+69 	EDEB 401 	Introduction to Turkish Literature I 	3 	1 	Satisfied 	
+ 
+70 	EDEB 405 	Written Expression 	3 	1 	Satisfied 	
+ 
+71 	EDEB 415 	Sources of Literature: Nature and Culture 	3 	1 	Satisfied 	
+ 
+72 	EDEB 432 	Modern Turkish Prose 	3 	1 	Satisfied 	
+ 
+73 	EEE 431 	Telecommunications I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+74 	EEE 442 	Nonlinear Systems 	3 	1 	Not satisfied 	Prerequisite not satisfied
+75 	EEE 443 	Neural Networks 	3 	1 	Not satisfied 	Prerequisite not satisfied
+76 	EEE 447 	Introduction to Robotics 	3 	1 	Not satisfied 	Prerequisite not satisfied
+77 	EEE 455 	Power System Analysis and Design 	3 	1 	Not satisfied 	Prerequisite not satisfied
+78 	EEE 473 	Medical Imaging 	3 	1 	Not satisfied 	Prerequisite not satisfied
+79 	EEE 485 	Statistical Learning and Data Analytics 	3 	1 	Satisfied 	
+ 
+80 	ELIT 139 	Appreciation of Literature 	3 	3 	Satisfied 	
+ 
+81 	ELIT 143 	Literature in its Contexts 	3 	3 	Satisfied 	
+ 
+82 	ELIT 227 	Poetry and Poetics 	3 	2 	Not satisfied 	Prerequisite not satisfied
+83 	ELIT 273 	Medieval and Renaissance Literature 	3 	2 	Not satisfied 	Prerequisite not satisfied
+84 	ELIT 359 	Shakespeare 	3 	2 	Not satisfied 	Prerequisite not satisfied
+85 	ELIT 377 	Romantic Literature 	3 	2 	Not satisfied 	Prerequisite not satisfied
+86 	ELIT 421 	Literature and Modernity 	3 	2 	Not satisfied 	Prerequisite not satisfied
+87 	ELIT 463 	Postcolonial Literature 	3 	2 	Not satisfied 	Prerequisite not satisfied
+88 	ENG 117 	Advanced English Grammar I 	3 	1 	Satisfied 	
+ 
+89 	FA 103 	Drawing I 	3 	3 	Satisfied 	
+ 
+90 	FA 171 	Introduction to Art, Design and Culture I 	3 	13 	Satisfied 	
+ 
+91 	FA 203 	Drawing III 	3 	1 	Not satisfied 	Prerequisite not satisfied
+92 	FA 207 	Artistic Anatomy 	3 	2 	Satisfied 	
+ 
+93 	FA 211 	Introduction to Painting I 	3 	1 	Satisfied 	
+ 
+94 	FA 213 	Introduction to Printmaking I 	3 	1 	Satisfied 	
+ 
+95 	FA 215 	Introduction to Sculpture I 	3 	2 	Satisfied 	
+ 
+96 	FA 217 	Introduction to Ceramics I 	3 	2 	Satisfied 	
+ 
+97 	FA 219 	Ancient Techniques and New Technology in Mosaic 	3 	2 	Satisfied 	
+ 
+98 	FA 223 	Visual Perception and Color 	3 	2 	Satisfied 	
+ 
+99 	FA 271 	History of Art I 	3 	1 	Satisfied 	
+ 
+100 	FA 361 	Philosophy of Art I 	3 	1 	Satisfied 	
+ 
+101 	FA 421 	Analysis of Art Work I 	3 	1 	Satisfied 	
+ 
+102 	GRA 131 	Design Tools and Techniques 	3 	2 	Satisfied 	
+ 
+103 	GRA 207 	Conceptual Design 	3 	1 	Not satisfied 	Prerequisite not satisfied
+104 	GRA 209 	Graphic Design for Non-Majors 	3 	2 	Satisfied 	
+ 
+105 	GRA 211 	Typography I 	3 	3 	Satisfied 	
+ 
+106 	GRA 215 	Computer Graphics for Film and Television I 	3 	1 	Satisfied 	
+ 
+107 	GRA 217 	Motion Graphics 	3 	1 	Satisfied 	
+ 
+108 	GRA 218 	Essentials of Photography 	3 	2 	Satisfied 	
+ 
+109 	GRA 223 	Photographic Image Processing I 	3 	1 	Satisfied 	
+ 
+110 	GRA 225 	Introduction to Visual Techniques 	3 	2 	Satisfied 	
+ 
+111 	GRA 324 	Photographic Practice 	3 	1 	Satisfied 	
+ 
+112 	GRA 341 	History of Graphic Art 	3 	1 	Satisfied 	
+ 
+113 	GRA 421 	Illustration I 	3 	1 	Satisfied 	
+ 
+114 	HART 111 	Introduction to Archaeology 	3 	1 	Satisfied 	
+ 
+115 	HART 117 	Ways of Seeing: Approaches to Art and Architectural History 	3 	3 	Satisfied 	
+ 
+116 	HART 120 	Human Evolution and World Prehistory 	3 	3 	Satisfied 	
+ 
+117 	HART 125 	Archaeological Illustration 	3 	1 	Satisfied 	
+ 
+118 	HART 221 	Great Discoveries from the Ancient World 	3 	2 	Satisfied 	
+ 
+119 	HART 222 	Mesopotamian Archaeology 	3 	1 	Satisfied 	
+ 
+120 	HART 227 	Greek Archaeology 	3 	1 	Satisfied 	
+ 
+121 	HART 231 	Ancient Greek I 	3 	1 	Satisfied 	
+ 
+122 	HART 239 	Latin I 	3 	1 	Satisfied 	
+ 
+123 	HART 305 	Byzantine and Islamic Art and Archaeology 	3 	1 	Satisfied 	
+ 
+124 	HART 352 	Monuments of Rome 	3 	1 	Satisfied 	
+ 
+125 	HART 372 	Hittite I 	3 	1 	Satisfied 	
+ 
+126 	HART 409 	Museum Practices and the Preservation of Cultural Heritage 	3 	1 	Satisfied 	
+ 
+127 	HART 423 	Cities, Monuments and Landscapes of Classical Anatolia 	3 	1 	Satisfied 	
+ 
+128 	HART 434 	Landscape Archaeology 	3 	1 	Satisfied 	
+ 
+129 	HART 436 	Archaeological Method and Theory 	3 	1 	Satisfied 	
+ 
+130 	HCIV 101 	History of Civilization I 	3 	16 	Satisfied 	
+ 
+131 	HCIV 102 	History of Civilization II 	3 	4 	Satisfied 	
+ 
+132 	HIST 411 	Ottoman History: 1300-1600 	3 	1 	Satisfied 	
+ 
+133 	HIST 413 	Byzantine History I: 324-1025 	3 	1 	Satisfied 	
+ 
+134 	HIST 417 	Medieval Europe (500-1500) 	3 	1 	Satisfied 	
+ 
+135 	HIST 431 	History of the United States until the Reconstruction 	3 	1 	Satisfied 	
+ 
+136 	HUM 331 	Humanities and Social Science Honors Seminar 	3 	1 	Satisfied 	
+ 
+137 	IAED 211 	Media for Representation 	3 	2 	Not satisfied 	Prerequisite not satisfied
+138 	IAED 221 	Human Factors 	3 	2 	Satisfied 	
+ 
+139 	IAED 322 	People and Environment 	3 	2 	Satisfied 	
+ 
+140 	IAED 341 	Architectural Acoustics and Fire Safety 	3 	3 	Satisfied 	
+ 
+141 	IAED 351 	Detailing Studio 	3 	3 	Not satisfied 	Prerequisite not satisfied
+142 	IAED 391 	Special Topics in Interior Design I 	3 	1 	Satisfied 	
+ 
+143 	IAED 392 	Special Topics in Interior Design II 	3 	1 	Satisfied 	
+ 
+144 	IAED 394 	TV Set Design 	3 	1 	Satisfied 	
+ 
+145 	IAED 397 	Color Theory and Applications 	3 	1 	Satisfied 	
+ 
+146 	IAED 415 	Advanced Detailing Studio 	3 	3 	Not satisfied 	Prerequisite not satisfied
+147 	IAED 461 	Environmental Management and Sustainable Development 	3 	1 	Satisfied 	
+ 
+148 	IAED 463 	History of Furniture 	3 	2 	Satisfied 	
+ 
+149 	IAED 492 	Current Issues in Interior Design II 	3 	1 	Satisfied 	
+ 
+150 	IE 102 	A Process Outlook for Industrial Engineering 	3 	3 	Satisfied 	
+ 
+151 	IE 202 	Introduction to Modeling and Optimization 	4 	4 	Satisfied 	
+ 
+152 	IE 303 	Modeling and Methods in Optimization 	3 	2 	Not satisfied 	Prerequisite not satisfied
+153 	IE 325 	Stochastic Models 	3 	2 	Not satisfied 	Prerequisite not satisfied
+154 	IE 342 	Engineering Economic Analysis 	3 	2 	Satisfied 	
+ 
+155 	IE 375 	Production Planning 	3 	2 	Not satisfied 	Prerequisite not satisfied
+156 	IE 376 	Production Information Systems 	3 	1 	Not satisfied 	Prerequisite not satisfied
+157 	IE 380 	Quality Control and Improvement 	3 	2 	Not satisfied 	Prerequisite not satisfied
+158 	IE 411 	Introduction to Nonlinear Optimization 	3 	1 	Not satisfied 	Prerequisite not satisfied
+159 	IE 448 	Financial Issues in Engineering Projects 	3 	2 	Not satisfied 	Prerequisite not satisfied
+160 	IE 451 	Applied Data Analysis 	3 	1 	Not satisfied 	Prerequisite not satisfied
+161 	IE 452 	Algebraic and Geometric Methods in Data Analysis 	3 	1 	Satisfied 	
+ 
+162 	IE 469 	Industrial Applications of Operations Research 	3 	1 	Not satisfied 	Prerequisite not satisfied
+163 	IE 482 	Humanitarian Logistics 	3 	1 	Not satisfied 	Prerequisite not satisfied
+164 	IE 490 	Introduction to Research in IE and OR 	3 	1 	Satisfied 	
+ 
+165 	IE 491 	Introduction to Research in IE and OR II 	3 	1 	Not satisfied 	Prerequisite not satisfied
+166 	IR 101 	Introduction to World Politics 	3 	8 	Satisfied 	
+ 
+167 	IR 205 	Diplomatic History 	3 	2 	Satisfied 	
+ 
+168 	IR 227 	Research Methods in International Relations 	3 	2 	Satisfied 	
+ 
+169 	IR 236 	20th Century World Politics 	3 	2 	Satisfied 	
+ 
+170 	IR 303 	International Law 	3 	1 	Satisfied 	
+ 
+171 	IR 305 	International Organizations 	3 	2 	Satisfied 	
+ 
+172 	IR 311 	Russian History 	3 	1 	Satisfied 	
+ 
+173 	IR 331 	War, Peace and Security 	3 	1 	Satisfied 	
+ 
+174 	IR 333 	Foreign Policy Analysis 	3 	2 	Satisfied 	
+ 
+175 	IR 335 	International Relations Theory 	3 	2 	Not satisfied 	Prerequisite not satisfied
+176 	IR 338 	Politics of International Economy 	3 	1 	Satisfied 	
+ 
+177 	IR 358 	International Security 	3 	1 	Satisfied 	
+ 
+178 	IR 413 	Game Theory and International Politics 	3 	1 	Satisfied 	
+ 
+179 	IR 439 	Turkish Foreign Policy 	3 	1 	Satisfied 	
+ 
+180 	IR 464 	History of the Cold War 	3 	1 	Satisfied 	
+ 
+181 	IR 492 	Gender in International Relations 	3 	1 	Satisfied 	
+ 
+182 	LAUD 221 	Introduction to Urban Concepts 	3 	1 	Satisfied 	
+ 
+183 	LAUD 242 	Flora of Turkey 	3 	1 	Not satisfied 	Prerequisite not satisfied
+184 	LAUD 251 	Introduction to Landscape Theory 	3 	1 	Satisfied 	
+ 
+185 	LAUD 357 	Landscape Construction: Techniques, Materials and Structures 	3 	1 	Satisfied 	
+ 
+186 	LAUD 421 	Realization of Urban Projects 	3 	1 	Satisfied 	
+ 
+187 	LAUD 471 	Urban Sociology 	3 	1 	Satisfied 	
+ 
+188 	LAUD 481 	Landscape Ecology Studio 	3 	1 	Satisfied 	
+ 
+189 	LAW 103 	Constitutional Law 	3 	4 	Satisfied 	
+ 
+190 	LAW 105 	Civil Law: Introductory Provisions and Natural Persons 	3 	2 	Satisfied 	
+ 
+191 	LAW 201 	Law of Obligations I 	3 	2 	Not satisfied 	Prerequisite not satisfied
+192 	LAW 203 	Criminal Law I 	3 	3 	Satisfied 	
+ 
+193 	LAW 205 	Administrative Law 	3 	2 	Satisfied 	
+ 
+194 	LAW 210 	Basic Concepts of Law 	3 	2 	Satisfied 	
+ 
+195 	LAW 211 	Basic Concepts of Law 	3 	1 	Satisfied 	
+ 
+196 	LAW 301 	Civil Procedure I 	3 	2 	Not satisfied 	Prerequisite not satisfied
+197 	LAW 303 	Public International Law 	3 	1 	Not satisfied 	Prerequisite not satisfied
+198 	LAW 304 	Private International Law 	3 	2 	Not satisfied 	Prerequisite not satisfied
+199 	LAW 305 	Law of Property I 	3 	2 	Not satisfied 	Prerequisite not satisfied
+200 	LAW 307 	Commercial Enterprise Law 	3 	2 	Not satisfied 	Prerequisite not satisfied
+201 	LAW 308 	Company Law 	3 	1 	Not satisfied 	Prerequisite not satisfied
+202 	LAW 309 	Law of Obligations Special Provisions 	3 	2 	Not satisfied 	Prerequisite not satisfied
+203 	LAW 313 	Business Law 	3 	3 	Satisfied 	
+ 
+204 	LAW 315 	Administrative Law 	3 	1 	Satisfied 	
+ 
+205 	LAW 401 	Law of Negotiable Instruments 	3 	2 	Not satisfied 	Prerequisite not satisfied
+206 	LAW 403 	Inheritance Law 	3 	2 	Not satisfied 	Prerequisite not satisfied
+207 	LAW 405 	International Human Rights Law 	3 	1 	Not satisfied 	Prerequisite not satisfied
+208 	LAW 407 	Tax Law 	3 	1 	Not satisfied 	Prerequisite not satisfied
+209 	LAW 411 	Criminal Procedure 	3 	2 	Satisfied 	
+ 
+210 	LAW 413 	European Union Law 	3 	1 	Not satisfied 	Prerequisite not satisfied
+211 	LNG 111 	Spanish I 	3 	5 	Satisfied 	
+ 
+212 	LNG 112 	Spanish II 	3 	2 	Not satisfied 	Prerequisite not satisfied
+213 	LNG 113 	Spanish III 	3 	1 	Not satisfied 	Prerequisite not satisfied
+214 	LNG 115 	Intermediate Spanish II 	3 	1 	Not satisfied 	Prerequisite not satisfied
+215 	LNG 121 	French I 	3 	3 	Satisfied 	
+ 
+216 	LNG 122 	French II 	3 	2 	Not satisfied 	Prerequisite not satisfied
+217 	LNG 123 	French III 	3 	1 	Not satisfied 	Prerequisite not satisfied
+218 	LNG 131 	German I 	3 	4 	Satisfied 	
+ 
+219 	LNG 132 	German II 	3 	2 	Not satisfied 	Prerequisite not satisfied
+220 	LNG 133 	German III 	3 	1 	Not satisfied 	Prerequisite not satisfied
+221 	LNG 134 	Intermediate German I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+222 	LNG 141 	Italian I 	3 	7 	Satisfied 	
+ 
+223 	LNG 142 	Italian II 	3 	2 	Not satisfied 	Prerequisite not satisfied
+224 	LNG 143 	Italian III 	3 	1 	Not satisfied 	Prerequisite not satisfied
+225 	LNG 161 	Russian I 	3 	2 	Satisfied 	
+ 
+226 	LNG 162 	Russian II 	3 	2 	Not satisfied 	Prerequisite not satisfied
+227 	LNG 163 	Russian III 	3 	1 	Not satisfied 	Prerequisite not satisfied
+228 	LNG 221 	Chinese I 	3 	1 	Satisfied 	
+ 
+229 	LNG 222 	Chinese II 	3 	1 	Not satisfied 	Prerequisite not satisfied
+230 	LNG 223 	Chinese III 	3 	1 	Not satisfied 	Prerequisite not satisfied
+231 	LNG 231 	Korean I 	3 	2 	Satisfied 	
+ 
+232 	LNG 232 	Korean II 	3 	1 	Not satisfied 	Prerequisite not satisfied
+233 	LNG 241 	Japanese I 	3 	1 	Satisfied 	
+ 
+234 	LNG 242 	Japanese II 	3 	1 	Not satisfied 	Prerequisite not satisfied
+235 	LNG 243 	Japanese III 	3 	1 	Not satisfied 	Prerequisite not satisfied
+236 	LNG 331 	Readings in German I 	3 	1 	Satisfied 	
+ 
+237 	MAN 102 	Introduction to Business II 	3 	4 	Not satisfied 	Prerequisite not satisfied
+238 	MAN 211 	Principles of Accounting I 	3 	3 	Satisfied 	
+ 
+239 	MAN 216 	Elements of Finance 	3 	1 	Satisfied 	
+ 
+240 	MAN 256 	Introduction to Management Science 	3 	2 	Not satisfied 	Prerequisite not satisfied
+241 	MAN 262 	Organizational Behavior 	3 	2 	Satisfied 	
+ 
+242 	MAN 312 	Managerial Accounting 	3 	1 	Not satisfied 	Prerequisite not satisfied
+243 	MAN 321 	Corporate Finance 	3 	4 	Not satisfied 	Prerequisite not satisfied
+244 	MAN 333 	Marketing Principles 	3 	2 	Satisfied 	
+ 
+245 	MAN 335 	Fundamentals of Marketing 	3 	2 	Not satisfied 	Prerequisite not satisfied
+246 	MAN 341 	Production Management 	3 	2 	Not satisfied 	Prerequisite not satisfied
+247 	MAN 361 	Organization Theory 	3 	3 	Not satisfied 	Prerequisite not satisfied
+248 	MAN 401 	Managerial Economics 	3 	1 	Not satisfied 	Prerequisite not satisfied
+249 	MAN 403 	International Business 	3 	2 	Not satisfied 	Prerequisite not satisfied
+250 	MAN 404 	Investment Analysis 	3 	1 	Not satisfied 	Prerequisite not satisfied
+251 	MAN 406 	Business Strategy 	3 	1 	Not satisfied 	Prerequisite not satisfied
+252 	MAN 414 	Auditing 	3 	1 	Not satisfied 	Prerequisite not satisfied
+253 	MAN 421 	Capital Markets and Institutions 	3 	1 	Not satisfied 	Prerequisite not satisfied
+254 	MAN 433 	Global Marketing and Emerging Markets 	3 	1 	Not satisfied 	Prerequisite not satisfied
+255 	MAN 462 	Human Resources Management 	3 	1 	Not satisfied 	Prerequisite not satisfied
+256 	MAN 467 	Cross-Cultural Management 	3 	1 	Satisfied 	
+ 
+257 	MAN 485 	Real Estate Finance 	3 	1 	Not satisfied 	Prerequisite not satisfied
+258 	MATH 202 	Complex Analysis 	3 	1 	Satisfied 	
+ 
+259 	MATH 213 	Advanced Calculus I 	4 	1 	Not satisfied 	Prerequisite not satisfied
+260 	MATH 220 	Linear Algebra 	3 	2 	Satisfied 	
+ 
+261 	MATH 223 	Linear Algebra I 	3 	1 	Satisfied 	
+ 
+262 	MATH 227 	Introduction to Linear Algebra 	3 	2 	Not satisfied 	Prerequisite not satisfied
+263 	MATH 240 	Differential Equations 	3 	1 	Satisfied 	
+ 
+264 	MATH 250 	Introduction to Probability 	3 	3 	Satisfied 	
+ 
+265 	MATH 260 	Introduction to Statistics 	3 	2 	Satisfied 	
+ Already pre-registered
+266 	MATH 264 	Statistics for Social Sciences 	3 	3 	Satisfied 	
+ 
+267 	MATH 313 	Real Analysis I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+268 	MATH 323 	Algebra I 	3 	1 	Satisfied 	
+ 
+269 	MATH 445 	Analysis on Manifolds 	3 	1 	Not satisfied 	Prerequisite not satisfied
+270 	MATH 473 	Introduction to Financial Mathematics 	3 	1 	Not satisfied 	Prerequisite not satisfied
+271 	MBG 209 	Principles of Genetics 	3 	1 	Satisfied 	
+ 
+272 	MBG 301 	Molecular Biology of the Cell I 	3 	1 	Satisfied 	
+ 
+273 	MBG 326 	Introduction to Bioinformatics 	3 	1 	Satisfied 	
+ Already pre-registered
+274 	MBG 416 	Science and Ethics 	3 	1 	Satisfied 	
+ 
+275 	MBG 488 	Introduction to Human Genetics 	3 	1 	Satisfied 	
+ 
+276 	ME 371 	Measurement and Instrumentation 	3 	2 	Not satisfied 	Prerequisite not satisfied
+277 	ME 412 	Introduction to Computational Fluid Dynamics 	3 	1 	Not satisfied 	Prerequisite not satisfied
+278 	ME 436 	Energy Conversion Systems 	3 	1 	Not satisfied 	Prerequisite not satisfied
+279 	ME 440 	Automotive Engineering 	3 	1 	Not satisfied 	Prerequisite not satisfied
+280 	ME 443 	Machine Elements 	3 	2 	Not satisfied 	Prerequisite not satisfied
+281 	ME 446 	Applications of Solid Mechanics 	3 	1 	Not satisfied 	Prerequisite not satisfied
+282 	ME 453 	Principles of Turbomachinery 	3 	1 	Not satisfied 	Prerequisite not satisfied
+283 	ME 481 	Mechanical Engineering Design I 	3 	2 	Not satisfied 	Prerequisite not satisfied
+284 	ME 570 	Dynamics of Aerospace Vehicles 	3 	1 	Satisfied 	
+ 
+285 	MSC 110 	The Culture and Basics of Music Making 	3 	1 	Satisfied 	
+ 
+286 	PHIL 101 	Introduction to Logic 	3 	2 	Satisfied 	
+ 
+287 	PHIL 103 	Introduction to Philosophy I 	3 	2 	Satisfied 	
+ 
+288 	PHIL 201 	Epistemology 	3 	1 	Satisfied 	
+ 
+289 	PHIL 203 	Rationalists 	3 	1 	Satisfied 	
+ 
+290 	PHIL 303 	Kant 	3 	1 	Satisfied 	
+ 
+291 	PHIL 304 	History and Philosophy of Science 	3 	2 	Satisfied 	
+ 
+292 	PHIL 308 	Philosophy of Mind 	3 	1 	Satisfied 	
+ 
+293 	PHIL 401 	Metaphysics 	3 	1 	Satisfied 	
+ 
+294 	PHYS 252 	Introductory Astronomy 	3 	1 	Satisfied 	
+ 
+295 	PHYS 315 	Electromagnetic Theory I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+296 	PHYS 325 	Quantum Mechanics I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+297 	PHYS 333 	Classical Thermodynamics 	3 	1 	Not satisfied 	Prerequisite not satisfied
+298 	PHYS 371 	Numerical Methods in Physics 	3 	1 	Not satisfied 	Prerequisite not satisfied
+299 	PHYS 445 	Condensed Matter Physics I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+300 	POLS 101 	Introduction to Political Science I 	3 	6 	Satisfied 	
+ 
+301 	POLS 104 	Introduction to Political Science II 	3 	2 	Satisfied 	
+ 
+302 	POLS 201 	Fundamentals of Social Research 	3 	1 	Satisfied 	
+ 
+303 	POLS 229 	Turkish Political History I 	3 	1 	Satisfied 	
+ 
+304 	POLS 303 	Comparative Politics I 	3 	2 	Satisfied 	
+ 
+305 	POLS 304 	Comparative Politics II 	3 	1 	Satisfied 	
+ 
+306 	POLS 305 	Turkish Political Development 	3 	2 	Satisfied 	
+ 
+307 	POLS 306 	Contemporary Turkish Politics 	3 	1 	Satisfied 	
+ 
+308 	POLS 346 	Ethnographic Research and Politics 	3 	1 	Satisfied 	
+ 
+309 	POLS 420 	Theory and Modern Society 	3 	1 	Satisfied 	
+ 
+310 	POLS 437 	Politics and Literature 	3 	1 	Satisfied 	
+ 
+311 	POLS 449 	Political Concepts 	3 	1 	Satisfied 	
+ 
+312 	POLS 452 	State Society and Citizenship in Turkey 	3 	1 	Satisfied 	
+ 
+313 	POLS 465 	Governance and Public Policy 	3 	2 	Satisfied 	
+ 
+314 	POLS 473 	Democratization Process in Turkey 	3 	1 	Satisfied 	
+ 
+315 	POLS 480 	European Politics 	3 	1 	Satisfied 	
+ 
+316 	POLS 490 	Democracy, Development and Human Rights 	3 	1 	Satisfied 	
+ 
+317 	POLS 560 	Contemporary Political Theory 	3 	1 	Satisfied 	
+ 
+318 	POLS 4560 	Contemporary Political Theory 	3 	1 	Satisfied 	
+ 
+319 	PSYC 100 	Introduction to Psychology 	3 	9 	Satisfied 	
+ 
+320 	PSYC 101 	Introduction to Psychology I / Cognitive and Biological 	3 	2 	Satisfied 	
+ 
+321 	PSYC 102 	Introduction to Social Psychology 	3 	4 	Satisfied 	
+ 
+322 	PSYC 103 	Introduction to Psychology II / Social and Developmental 	3 	1 	Satisfied 	
+ 
+323 	PSYC 200 	Cognitive Psychology 	3 	2 	Satisfied 	
+ 
+324 	PSYC 203 	Statistics I 	3 	3 	Not satisfied 	Prerequisite not satisfied
+325 	PSYC 204 	Research Methods I 	3 	1 	Not satisfied 	Prerequisite not satisfied
+326 	PSYC 205 	Statistics II 	3 	1 	Not satisfied 	Prerequisite not satisfied
+327 	PSYC 206 	Research Methods II 	3 	1 	Not satisfied 	Prerequisite not satisfied
+328 	PSYC 220 	Brain and Behavior 	3 	1 	Satisfied 	
+ 
+329 	PSYC 230 	Social Psychology 	3 	2 	Satisfied 	
+ 
+330 	PSYC 240 	Developmental Psychology 	3 	1 	Satisfied 	
+ 
+331 	PSYC 310 	Perception, Attention, and Action 	3 	1 	Not satisfied 	Prerequisite not satisfied
+332 	PSYC 340 	Learning, Remembering, and Thinking 	3 	1 	Not satisfied 	Prerequisite not satisfied
+333 	PSYC 350 	Cognitive and Social Development 	3 	1 	Not satisfied 	Prerequisite not satisfied
+334 	PSYC 360 	Individual Differences and Personality 	3 	1 	Not satisfied 	Prerequisite not satisfied
+335 	PSYC 391 	Directed Research in Psychology 	3 	1 	Not satisfied 	Prerequisite not satisfied
+336 	PSYC 423 	Selected Topics in Cognitive Science 	3 	1 	Not satisfied 	Prerequisite not satisfied
+337 	PSYC 430 	Clinical Psychology 	3 	1 	Not satisfied 	Prerequisite not satisfied
+338 	PSYC 431 	Psychological Testing and Measurement 	3 	1 	Not satisfied 	Prerequisite not satisfied
+339 	PSYC 433 	Abnormal Psychology 	3 	1 	Not satisfied 	Prerequisite not satisfied
+340 	PSYC 434 	Child and Adolescent Psychopathology 	3 	1 	Not satisfied 	Prerequisite not satisfied
+341 	PSYC 435 	Industrial and Organizational Psychology 	3 	1 	Not satisfied 	Prerequisite not satisfied
+342 	PSYC 482 	Mind in Evolution 	3 	1 	Not satisfied 	Prerequisite not satisfied
+343 	PSYC 483 	Theory of Mind 	3 	1 	Not satisfied 	Prerequisite not satisfied
+344 	SFL 431 	French in Corporate Communication 	3 	2 	Not satisfied 	Prerequisite not satisfied
+345 	SOC 101 	Introduction to Sociology 	3 	11 	Satisfied 	
+346 	THR 103 	Voice and Speech I 	3 	1 	Satisfied 	
+347 	THR 105 	Movement and Combat I 	3 	1 	Satisfied 	
+348 	THR 203 	Voice and Speech III 	3 	1 	Not satisfied 	Prerequisite not satisfied
+349 	THR 205 	Movement and Combat III 	3 	1 	Not satisfied 	Prerequisite not satisfied
+350 	THR 227 	History of Theater I: Origins to Renaissance 	3 	2 	Satisfied 
+351 	THR 327 	History of Theater III: 20th Century 	3 	1 	Satisfied
+352 	THR 331 	Textual Interpretation and Analysis I 	3 	1 	Satisfied
+353 	THR 431 	Textual Interpretation and Analysis III 	3 	1 	Satisfied
